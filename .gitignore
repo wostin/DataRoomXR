@@ -1,0 +1,20 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+*.csproj
+*.sln
+*.user
+
+# ¡No subir la API key de la IA!
+Resources/ConfigIA.asset
+Resources/ConfigIA.asset.meta
+Assets/Resources/ConfigIA.asset
+Assets/Resources/ConfigIA.asset.meta
+
+# Base de datos generada
+*.db

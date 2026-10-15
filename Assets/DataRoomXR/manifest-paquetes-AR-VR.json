@@ -1,0 +1,11 @@
+{
+  "_comentario": "Paquetes GRATIS y oficiales de Unity para AR y VR. NO reemplaces tu Packages/manifest.json: abre ese archivo en tu proyecto y copia estas líneas DENTRO de su bloque \"dependencies\". Luego Unity los descarga solo. Si el Package Manager te ofrece una versión más nueva, úsala.",
+  "dependencies": {
+    "com.unity.xr.management": "4.4.0",
+    "com.unity.xr.arfoundation": "5.1.5",
+    "com.unity.xr.arcore": "5.1.5",
+    "com.unity.xr.interaction.toolkit": "2.5.4",
+    "com.unity.xr.openxr": "1.10.0"
+  },
+  "_cardboard": "Para VR con visor Cardboard en celular, agrega además el Google Cardboard XR Plugin (gratis) desde el Package Manager con 'Add package from git URL': https://github.com/googlevr/cardboard-xr-plugin.git"
+}
